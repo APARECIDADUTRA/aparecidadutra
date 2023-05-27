@@ -5,3 +5,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/aparecidadutrateixeira.teixeira)
 
 [![Aparecidadutra Github stats](https://github-readme-stats.vercel.app/api?username=aparecidadutra&show_icons=true&theme=dracula) 
+
+Tecnologias
+
+https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
